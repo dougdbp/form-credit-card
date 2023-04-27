@@ -1,0 +1,23 @@
+{
+  "name": "form-credit-card",
+  "version": "1.0.0",
+  "description": "Form Credit Card# form-credit-card",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougdbp/form-credit-card.git"
+  },
+  "keywords": [],
+  "author": "Douglas B Peixoto | @bulldog.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougdbp/form-credit-card/issues"
+  },
+  "homepage": "https://github.com/dougdbp/form-credit-card#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
